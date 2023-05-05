@@ -12,4 +12,5 @@ The model can be run: python Predict.py
 The pre-trained model "SAFNet.pth" can be downloaded from Baidu NetDisk.
 
 Website: https://pan.baidu.com/s/1Ca23cOzeIJYWOBcr33ZtNA
+
 Password: t1vh
